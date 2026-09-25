@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "tensorflow": "2.20.0",
+  "scikit_learn": "1.7.2",
+  "numpy": "2.5.3",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "processor": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+  "dataset_rows": 4601,
+  "dataset_features": 57,
+  "class_counts": {
+    "0": 2788,
+    "1": 1813
+  },
+  "split": "70/30 stratified",
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "article_reported_best_accuracy": 0.95,
+  "our_best_configuration": "MLP kompaktiškas 64-32-16",
+  "our_best_mean_accuracy": 0.937436640115858,
+  "difference_percentage_points": -1.2563359884141923,
+  "important_limitation": "Straipsnio Spambase imčių skaičiai sudaro 6098, nors oficialiame rinkinyje yra 4601; nepateikta atsitiktinė sėkla ir nepaaiškintas balansavimas."
+}
