@@ -1,0 +1,34 @@
+KOLIOKVIUMO DARBO NUORODOS
+
+Visa GitHub saugykla:
+https://github.com/MaWay2000/rugsejis
+
+Visas koliokviumo aplankas:
+https://github.com/MaWay2000/rugsejis/tree/main/Koliokviumas
+
+Galutine ataskaita Word formatu:
+https://github.com/MaWay2000/rugsejis/blob/main/Koliokviumas/Ataskaita/Koliokviumas_Mantas_Matusevicius_galutine_ataskaita.docx
+
+Galutine ataskaita PDF formatu:
+https://github.com/MaWay2000/rugsejis/blob/main/Koliokviumas/Ataskaita/Koliokviumas_Mantas_Matusevicius_galutine_ataskaita.pdf
+
+Galutinis MATLAB kodas:
+https://github.com/MaWay2000/rugsejis/blob/main/Koliokviumas/MATLAB_2/Koliokviumas_praktinis.m
+
+Nauju duomenu prognozavimo kodas:
+https://github.com/MaWay2000/rugsejis/blob/main/Koliokviumas/MATLAB_2/prognozuoti_naujus.m
+
+SpamAssassin nepriklausomo testo kodas:
+https://github.com/MaWay2000/rugsejis/blob/main/Koliokviumas/MATLAB_2/tikrinti_spamassassin.m
+
+Duomenu aplankas:
+https://github.com/MaWay2000/rugsejis/tree/main/Koliokviumas/MATLAB_2/duomenys
+
+Rezultatu aplankas:
+https://github.com/MaWay2000/rugsejis/tree/main/Koliokviumas/MATLAB_2/Koliokviumo_rezultatai
+
+Rezultatu grafikai:
+https://github.com/MaWay2000/rugsejis/tree/main/Koliokviumas/MATLAB_2/Koliokviumo_rezultatai/grafikai
+
+Ikelimo commitas:
+https://github.com/MaWay2000/rugsejis/commit/b98f8fe17a1cd6c36c8060379d8408ac321a5c32
