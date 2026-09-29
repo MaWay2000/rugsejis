@@ -1,0 +1,3 @@
+hipoteze,palyginimas,pr_auc_skirtumas,apatine_95,virsutine_95,siekinys,siekinys_pasiektas,apatine_riba_teigiama,isvada
+H1,HCVR-RF - LR,0.0368947117265084,0.00229000209221025,0.0755551763688299,0.01,1,1,patvirtinta
+H2,HCVR-RF - RF,-0.0115369383685948,-0.0243689529553423,0.00107443837491372,0.01,0,0,nepatvirtinta

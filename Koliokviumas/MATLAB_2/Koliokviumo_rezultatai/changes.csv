@@ -1,0 +1,7 @@
+etapas,modelis,pradinis_bandymo_id,parinktas_bandymo_id,pradinis_pr_auc,parinktas_pr_auc,pokytis,sprendimas
+pagrindine paieska,Logistine regresija,2,2,0.940096671971886,0.940096671971886,0,parinktas pagal vidutini PR-AUC ir lygiuju taisykle
+pagrindine paieska,SVM,8,11,0.952864161584693,0.956802211439806,0.00393804985511315,parinktas pagal vidutini PR-AUC ir lygiuju taisykle
+pagrindine paieska,Atsitiktinis miskas,16,19,0.842390274131788,0.958883213858199,0.116492939726411,parinktas pagal vidutini PR-AUC ir lygiuju taisykle
+pagrindine paieska,HCVR-RF,21,33,0.834211626168295,0.968210552227616,0.133998926059321,parinktas pagal vidutini PR-AUC ir lygiuju taisykle
+abliacija,RF be didziuju,19,4,0.958883213858199,0.960565735797712,0.00168252193951279,ivertintas 3 didziuju raidziu pozymiu pasalinimo poveikis
+abliacija,HCVR-RF be didziuju,33,18,0.968210552227616,0.958278995975382,-0.00993155625223363,ivertintas 3 didziuju raidziu pozymiu pasalinimo poveikis

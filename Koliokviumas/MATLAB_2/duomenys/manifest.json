@@ -1,0 +1,9 @@
+{
+  "saltinis": "https://archive.ics.uci.edu/static/public/94/spambase.zip",
+  "irasu_skaicius": 4601,
+  "pozymiu_skaicius": 57,
+  "klase_0": 2788,
+  "klase_1": 1813,
+  "raw_sha256": "c1b4cc7551280308198ac0ec1c1e6e8bda1b91806d9361e7d67f55c2850ffebf",
+  "atsisiuntimo_laikas": "22-May-2023 22:21:50"
+}
