@@ -39,7 +39,7 @@ Straipsnio metrikos paliekamos originaliu USD už galoną masteliu, kad jas būt
 - `ANFIS_rezultatai` – CSV rezultatai, modeliai ir grafikai.
 - `ANFIS_rezultatai/metu_prognoze.csv` – 52 savaičių prognozė EUR/l.
 - `ANFIS_rezultatai/prognoze_iki_2030.csv` – 223 savaičių prognozė iki 2030 m. EUR/l.
-- `ataskaita` – galutinė Word ir PDF ataskaita.
+- `ataskaita` – galutinė PDF ataskaita.
 - `ND2_LSTM_atsargine_kopija.zip` – ankstesnės ND2 temos atsarginė kopija.
 
 ## Straipsnyje aptikti neatitikimai
